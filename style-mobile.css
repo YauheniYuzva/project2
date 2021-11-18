@@ -1,0 +1,113 @@
+@media screen and (max-width: 1300px){
+    .center{
+        width: 90%;
+    }
+    .text_left{
+        float: none;
+    }
+    .text_right{
+        float: none;
+    }
+    .card_img img{
+        width: 100%;
+        max-width: 100%;
+    }
+    .card{
+        width: 49%;
+    }
+    .card_img .pic_caption h4{
+        padding-top: 24%;
+    }
+    footer .footer_logo{
+        float: none;
+    }
+    footer .legal_block{
+        float: left;
+    }
+    footer .legal_block, footer .research_block, footer .services_block{
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    h1{
+        width: 100%;
+    }
+    .text_left{
+        width: 100%;
+    }
+    .text_right{
+        width: 100%;
+    }
+    footer .social_links .social_left{
+        float: none;
+        text-align: center;
+    }
+    footer .social_links .social_right{
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+    }
+    footer .social_links .social_right a{
+        margin-left: 0;
+        margin-right: 32px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    h1{
+        font-size: 72px;
+        line-height: 72px;
+        padding-top: 100px;
+        margin-bottom: 100px;
+    }
+    .card{
+        width: 100%;
+    }
+    .card p{
+        width: 100%;
+    }
+    .container4{
+        padding-top: 60px;
+    }
+    footer .social_links .social_left{
+        text-align: left;
+    }
+    footer .social_links .social_right{
+        text-align: left;
+    }
+    footer .social_links .social_left a{
+        line-height: 50px;
+    }
+    footer .social_links .social_right a{
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    h1{
+        font-size: 38px;
+        line-height: 38px;
+        padding-top: 60px;
+        margin-bottom: 60px;
+    }
+    .text_right p{
+        font-size: 28px;
+    }
+    .sub_title{
+        padding-top: 60px;
+    }
+    .card_img .pic_caption h4{
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .container4{
+        padding-top: 40px;
+    }
+}
+
+
+
+
+
+
